@@ -1,0 +1,4 @@
+MAC
+HWaddr 08:00:27:29:dd:f6  
+IP
+inet addr:10.0.2.15
