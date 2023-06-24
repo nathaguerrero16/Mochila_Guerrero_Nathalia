@@ -1,0 +1,15 @@
+Ventajas de telnet
+1. Se conecta remoto con la MV desde el cmd de Windows
+2. ES de facil manejo
+Desventajes de telnet
+1. Al editar un archivo con nano, no es muy intuitivo, es dificil de manejar
+2. Hay que hacer mpas pasos para conectarse desde el cmdy mas pasopara instalar en la maquina virtual
+Ventajas de SSH
+1. ES facil de maneja y más seguro
+2. Elcomando nano es más intuitivo y facil de manejar
+DEsventajas de SSH
+1. Para conectarse hay que hacer algunos pasos adicionales en cmd
+DIFERENCIAS
+1. Ambos sirven para conectarse remotamente desde cmd con MV pero telenet es más inseguro que SSH y MENOS INTUITIVO
+2. SSH es un poco mejor en cuanto a manejo  y edición de textos
+3. Para telnet hay que activar las caracteristicas de Windows en mi caso ya que que si no se activa telnet no se conecta con la MV en cambio con SSH se conecta sin hacer este paso. 
